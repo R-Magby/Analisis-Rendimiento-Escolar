@@ -10,7 +10,7 @@ Este proyecto nace de un gran interes que tengo en la educacion en Chile, desean
 # Flujo de trabajo
 
  * Exportacion, limpieza, transformación y exportacion de datos en [jupyter notebook python](./notebooks/ETL_Rendimiento_Escolar.ipynb)
- * Creacion de [database](./sql/creacion_database.sql)s y  [tablas](./sql/creacion_tablas.sql).
+ * Creacion de [tablas](./sql/creacion_tablas.sql) y  [carga de datos](./sql/Cargar_datos.sql).
  * Escritura de [queries](./sql/queries.sql)
 
 ## Establecimiento por región 2024
