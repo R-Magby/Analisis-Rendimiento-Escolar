@@ -7,6 +7,8 @@
 ## 📌 Descripción del Proyecto
 Este proyecto realiza un análisis del rendimiento académico en Chile utilizando microdatos del MINEDUC. Se coleccionaron los datos del MINEDUC de rendimiento academico entre el 2002 al 2024. [link](https://datosabiertos.mineduc.cl/resumen-de-rendimiento-por-unidad-educativa/). El objetivo es identificar cómo eventos históricos, tipos de establecimientos de estudio y cambios demográficos han afectado la educación en el país.
 
+Si desean leer los insights o los calculos los invito leer el [Resumen](\Resumen.md), donde explico las consutlas y el analisis que he realizado hasta ahora.
+
 Este análisis es el resultado de un interés personal por entender el sistema educativo chileno a través de herramientas cuantitativas y técnicas de **Data Engineering (ETL)** y **Data Analysis**.
 
 Para un detalle de los datos sugiero revisar el [documento oficial](./docs/ER_Resumen_rendimiento_UE.pdf).
@@ -73,4 +75,4 @@ Organizado siguiendo las mejores prácticas de la industria:
 ---
 
 **Contacto:**
-Rodolfo Godoy arteaga – [LinkedIn](https://www.linkedin.com/in/rodolfo-godoy-arteaga-64396121b/)–[Correo](mailto:[EMAIL_ADDRESS])
+Rodolfo Godoy arteaga – [LinkedIn](https://www.linkedin.com/in/rodolfo-godoy-arteaga-64396121b/) – rodolfo.godoyarteaga@gmail.com
