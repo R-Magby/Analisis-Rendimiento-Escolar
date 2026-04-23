@@ -3,15 +3,15 @@
 Se coleccionaron los datos del MINEDUC de rendimiento academico entre el 2002 al 2024. [link](https://datosabiertos.mineduc.cl/resumen-de-rendimiento-por-unidad-educativa/)
 
 # Resumen
-Utilizando datos proporcionados por el MINEDUC (23 archivos csv) en los cuales se encuentra informacion acerca de cantidad de alumnos aprobados, retirados, desaprobados y trasladados, ademas de informacion del tipo de enseñanza,region, provincia, tipo de establecimiento, etc..., para una información mas detallada recomiendo ver el [documento oficial](./Rendimiento%20Escolar%20Chile/ER_Resumen_rendimiento_UE.pdf). Este analisis tiene como objetivo estudiar la evolución del rendimiento académico en Chile a lo largo del tiempo, identificar tendencias, anomalías y brechas entre distintos segmentos educativos.
+Utilizando datos proporcionados por el MINEDUC (23 archivos csv) en los cuales se encuentra informacion acerca de cantidad de alumnos aprobados, retirados, desaprobados y trasladados, ademas de informacion del tipo de enseñanza,region, provincia, tipo de establecimiento, etc..., para una información mas detallada recomiendo ver el [documento oficial](./docs/ER_Resumen_rendimiento_UE.pdf). Este analisis tiene como objetivo estudiar la evolución del rendimiento académico en Chile a lo largo del tiempo, identificar tendencias, anomalías y brechas entre distintos segmentos educativos.
 
 Este proyecto nace de un gran interes que tengo en la educacion en Chile, deseando que me otorge un mejor conocimiento del sistema educativo a lo largo del tiempo y el analisis cuantitativo usando herramientas como python, SQL, SQL Server, SSMS y excel.
 
 # Flujo de trabajo
 
- * Exportacion, limpieza, transformación y exportacion de datos en [jupyter notebook python](./Rendimiento%20Escolar%20Chile/Python/ETL_Rendimiento_Escolar.ipynb)
- * Creacion de [database](./Rendimiento%20Escolar%20Chile/SQL/creacion_database.sql)s y  [tablas](./Rendimiento%20Escolar%20Chile/SQL/creacion_tablas.sql).
- * Escritura de [queries](./Rendimiento%20Escolar%20Chile/SQL/queries.sql)
+ * Exportacion, limpieza, transformación y exportacion de datos en [jupyter notebook python](./notebooks/ETL_Rendimiento_Escolar.ipynb)
+ * Creacion de [database](./sql/creacion_database.sql)s y  [tablas](./sql/creacion_tablas.sql).
+ * Escritura de [queries](./sql/queries.sql)
 
 ## Establecimiento por región 2024
 Pregunta: ¿Cuales son las regiones que tienen mas establecimientos? ¿Cual es la cantidad de establecimientos rurales y urbano?
