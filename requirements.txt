@@ -1,0 +1,7 @@
+# Librerías necesarias para ejecutar el análisis
+pandas
+numpy
+ipykernel
+pyodbc
+matplotlib
+seaborn
