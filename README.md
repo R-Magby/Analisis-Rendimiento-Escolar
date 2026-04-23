@@ -1,4 +1,4 @@
-# Análisis del Rendimiento Escolar en Chile (2002-2024) 🇨🇱📚
+# Análisis del Rendimiento Escolar en Chile (2002-2024) 📚
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-SQL%20Server-red.svg)](https://www.microsoft.com/en-us/sql-server/)
